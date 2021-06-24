@@ -63,7 +63,7 @@ author:
   bio    : ""
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-facebook"
+      icon: "fas fa-fw fa-link"
       url: "https://ivanadimitrovska.blogspot.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
