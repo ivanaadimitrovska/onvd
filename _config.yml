@@ -64,16 +64,16 @@ author:
   links:
     - label: "Facebook"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.facebook.com/profile.php?id=100002280527030"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/kosturnabaterii?s=09"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/ivanaadimitrovska/"
 
 footer:
   links:
