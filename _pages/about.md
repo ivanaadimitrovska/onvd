@@ -3,7 +3,8 @@ permalink: /
 title: "About"
 ---
 
-![59868222_2254031734682822_2736000635496300544_n](https://user-images.githubusercontent.com/61246403/123483677-67d41700-d607-11eb-833a-7227d36cd21b.jpg)
+![secen8](https://user-images.githubusercontent.com/61246403/123483786-94882e80-d607-11eb-8e13-53ed8bf51548.jpg)
+
 
 
 
