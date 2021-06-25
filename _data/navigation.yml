@@ -1,11 +1,11 @@
  main:
  - title: "About Me"
-    url: /
+   url: /
  - title: "My Interests"
-    url: /interests/
+   url: /interests/
  - title: "Posts"
-    url: /posts/
+   url: /posts/
  - title: "Categories"
-    url: /categories/
+   url: /categories/
  - title: "Tags"
-    url: /tags/
+   url: /tags/
