@@ -16,11 +16,11 @@ Besides, I love dancing, I did hip-hop a few years ago. Hard work and hard work 
 
 Sport has never been my strong point, but I especially love skiing. I have been enjoying it since I was four years old. The pleasure was mine every winter, together with my grandfather, and now I want to visit ski resorts where I have not been. I also practiced tennis and that was one of the many things that caught my attention.
 
-![secena-1ski](https://user-images.githubusercontent.com/61246403/123683112-1e283e00-d84c-11eb-843d-c84351aa653e.JPEG)
+![secena-1ski](https://user-images.githubusercontent.com/61246403/123683112-1e283e00-d84c-11eb-843d-c84351aa653e.JPEG)![secena4-ski](https://user-images.githubusercontent.com/61246403/123683650-c1795300-d84c-11eb-9aa7-19b039d3bbea.PNG)
 
 ![secena2-ski](https://user-images.githubusercontent.com/61246403/123683180-3435fe80-d84c-11eb-8793-f7a6d918291c.JPEG)
 ![secena3-ski](https://user-images.githubusercontent.com/61246403/123683406-72332280-d84c-11eb-8ec9-98a3fd27b4c9.JPEG)
-![secena4-ski](https://user-images.githubusercontent.com/61246403/123683650-c1795300-d84c-11eb-9aa7-19b039d3bbea.PNG)
+
 
 
 Apart from writing, I enjoy reading books. The book fair was my favorite place, from where I always went out with a purchased book. Just reading books takes me away from reality, I just live another life.
