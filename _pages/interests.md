@@ -7,11 +7,22 @@ title: "My Interests"
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <style>
+        p{
+            font-family: satisfy, Arial, serif;
+        }
+    </style>
     <meta charset="UTF-8">
     <title>Title</title>
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Uncovered by FCSE</title>
+    <link href='http://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css' />
+    <link href='http://fonts.googleapis.com/css?family=Abel|Satisfy' rel='stylesheet' type='text/css' />
 </head>
 <body>
-    <p style="font-family: 'Microsoft YaHei UI', 'Segoe', 'Arial', sans-serif; background-color: grey;color: #8e0519">
+    <p style="background-color: grey;color: #8e0519">
         I have always been interested in things from different fields.
         One of them that I was very dedicated to was playing the piano.
         I was delighted with every whistling note. Participating in numerous
