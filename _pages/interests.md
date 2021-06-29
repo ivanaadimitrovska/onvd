@@ -4,6 +4,29 @@ title: "My Interests"
 ---
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <p style="font-family: satisfy, Arial, serif; color: #8e0519">
+        I have always been interested in things from different fields. 
+        One of them that I was very dedicated to was playing the piano. 
+        I was delighted with every whistling note. Participating in numerous 
+        concerts and competitions brought me great experience, as well as the 
+        pleasure of being part of such events, which enriched my culture. 
+        I have also always loved public and stage performances, 
+        so I had tried my hand as a host during concerts. 
+        The years spent in elementary music school passed me by very quickly, 
+        because music only took me to another parallel universe, where time passed by the minute. 
+        I also love listening to classical music other than pop and rock music.
+    </p>
+</body>
+</html>
+
+
 I have always been interested in things from different fields. One of them that I was very dedicated to was playing the piano. I was delighted with every whistling note. Participating in numerous concerts and competitions brought me great experience, as well as the pleasure of being part of such events, which enriched my culture. I have also always loved public and stage performances, so I had tried my hand as a host during concerts. The years spent in elementary music school passed me by very quickly, because music only took me to another parallel universe, where time passed by the minute. I also love listening to classical music other than pop and rock music. 
 
 ![secena-klavir](https://user-images.githubusercontent.com/61246403/123681194-cee10e00-d849-11eb-8239-48facd1ba3bb.JPG)
