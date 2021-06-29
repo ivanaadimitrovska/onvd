@@ -7,11 +7,6 @@ title: "My Interests"
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <style>
-        p{
-            font-family: satisfy, Arial, serif;
-        }
-    </style>
     <meta charset="UTF-8">
     <title>Title</title>
     <meta name="keywords" content="" />
@@ -22,7 +17,7 @@ title: "My Interests"
     <link href='http://fonts.googleapis.com/css?family=Abel|Satisfy' rel='stylesheet' type='text/css' />
 </head>
 <body>
-    <p style="background-color: pink;color: #8e0519">
+    <p style="font-family: satisfy, Arial, serif;background-color: grey;color: #8e0519">
         I have always been interested in things from different fields.
         One of them that I was very dedicated to was playing the piano.
         I was delighted with every whistling note. Participating in numerous
