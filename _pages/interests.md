@@ -11,16 +11,16 @@ title: "My Interests"
     <title>Title</title>
 </head>
 <body>
-    <p style="font-family: 'abel', 'Arial', serif; color: #8e0519">
-        I have always been interested in things from different fields. 
-        One of them that I was very dedicated to was playing the piano. 
-        I was delighted with every whistling note. Participating in numerous 
-        concerts and competitions brought me great experience, as well as the 
-        pleasure of being part of such events, which enriched my culture. 
-        I have also always loved public and stage performances, 
-        so I had tried my hand as a host during concerts. 
-        The years spent in elementary music school passed me by very quickly, 
-        because music only took me to another parallel universe, where time passed by the minute. 
+    <p style="font-family: 'Microsoft YaHei UI', 'Segoe', 'Arial', sans-serif; background-color: grey;color: #8e0519">
+        I have always been interested in things from different fields.
+        One of them that I was very dedicated to was playing the piano.
+        I was delighted with every whistling note. Participating in numerous
+        concerts and competitions brought me great experience, as well as the
+        pleasure of being part of such events, which enriched my culture.
+        I have also always loved public and stage performances,
+        so I had tried my hand as a host during concerts.
+        The years spent in elementary music school passed me by very quickly,
+        because music only took me to another parallel universe, where time passed by the minute.
         I also love listening to classical music other than pop and rock music.
     </p>
 </body>
