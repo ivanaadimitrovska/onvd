@@ -36,11 +36,22 @@ title: "My Interests"
         Videos from my concerts are on the links:
     <br>
 1.  https://user-images.githubusercontent.com/61246403/123874865-11354880-d939-11eb-8937-a06995a25a90.mp4<br>
-2   https://user-images.githubusercontent.com/61246403/123874879-16929300-d939-11eb-9f31-110fa5845552.mp4 <br>
+2.  https://user-images.githubusercontent.com/61246403/123874879-16929300-d939-11eb-9f31-110fa5845552.mp4 <br>
 3.  https://user-images.githubusercontent.com/61246403/123874896-1b574700-d939-11eb-97db-d5013dae7948.mp4 <br>
 4.  https://user-images.githubusercontent.com/61246403/123874906-1e523780-d939-11eb-9875-74b2ecece858.mp4 <br>
 5.  https://user-images.githubusercontent.com/61246403/123874917-21e5be80-d939-11eb-9102-cac05c9005ab.mp4 <br>
 6.  https://user-images.githubusercontent.com/61246403/123874930-24e0af00-d939-11eb-8e98-1454fcc714b7.mp4 <br>
+       
+ <img src="https://user-images.githubusercontent.com/61246403/123877839-42fcde00-d93e-11eb-9579-b942cde42256.jpg" style="border-radius: 3px;margin-left: 620px;margin-top: -800px" height="200px" width="200px">       
+        
+        
+        
+        
+        
+        
+        
+![secena-klavir6](https://user-images.githubusercontent.com/61246403/123877848-4728fb80-d93e-11eb-8c0d-e494f7b1df5f.jpg)
+
     </p>
 <p style="font-family: satisfy, Arial, serif;background-color: lightskyblue;color: #4D90FE;
         border-radius: 3px; width: 600px">
