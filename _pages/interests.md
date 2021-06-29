@@ -62,19 +62,12 @@ https://user-images.githubusercontent.com/61246403/123874930-24e0af00-d939-11eb-
 <img src="https://user-images.githubusercontent.com/61246403/123683180-3435fe80-d84c-11eb-8793-f7a6d918291c.JPEG" style="border-radius: 3px;margin-left: 820px;margin-top: -800px" height="200px" width="200px">
  <img src="https://user-images.githubusercontent.com/61246403/123683406-72332280-d84c-11eb-8ec9-98a3fd27b4c9.JPEG" style="border-radius: 3px;margin-left: 620px;margin-top: -500px" height="200px" width="200px">
  <img src="https://user-images.githubusercontent.com/61246403/123875727-76d60480-d93a-11eb-9371-80694dc92178.PNG" style="border-radius: 3px;margin-left: 820px;margin-top: -500px" height="200px" width="200px">
+    
+    <p style="font-family: satisfy, Arial, serif;background-color: #b99f4c;color: coral;
+        border-radius: 3px; width: 600px">
+        Apart from writing, I enjoy reading books. The book fair was my favorite place, from where I always went out with a purchased book. Just reading books takes me away from         reality, I just live another life.
+    </p>
+    <img src="https://user-images.githubusercontent.com/61246403/123683614-b6bebe00-d84c-11eb-98ba-31fd119b70df.JPEG" style="border-radius: 3px;margin-left: 820px;margin-top: -300px" height="200px" width="200px">
+        
 </body>
 </html>
-
-
-![secena4-ski](https://user-images.githubusercontent.com/61246403/123875727-76d60480-d93a-11eb-9371-80694dc92178.PNG)
-
-
-![secena3-ski](https://user-images.githubusercontent.com/61246403/123683406-72332280-d84c-11eb-8ec9-98a3fd27b4c9.JPEG)
-
-
-
-Apart from writing, I enjoy reading books. The book fair was my favorite place, from where I always went out with a purchased book. Just reading books takes me away from reality, I just live another life.
-
-
-![secena4-ski](https://user-images.githubusercontent.com/61246403/123683614-b6bebe00-d84c-11eb-98ba-31fd119b70df.JPEG)
-
