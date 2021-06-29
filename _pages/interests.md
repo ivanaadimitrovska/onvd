@@ -29,7 +29,9 @@ title: "My Interests"
         because music only took me to another parallel universe, where time passed by the minute.
         I also love listening to classical music other than pop and rock music.
     </p>
-<img src="![secena-klavir](https://user-images.githubusercontent.com/61246403/123681194-cee10e00-d849-11eb-8239-48facd1ba3bb.JPG)" style="border-radius: 3px;margin-left: 650px;margin-top: -230px" height="200px" width="400px">
+<p style="border-radius: 3px;margin-left: 650px;margin-top: -230px" height="200px" width="400px">
+    ![secena-klavir](https://user-images.githubusercontent.com/61246403/123681194-cee10e00-d849-11eb-8239-48facd1ba3bb.JPG)
+    </p>
 </body>
 </html>
 
