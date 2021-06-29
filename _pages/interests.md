@@ -13,11 +13,12 @@ title: "My Interests"
     <meta name="description" content="" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <title>Uncovered by FCSE</title>
-    <link href='https://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css' />
-    <link href='https://fonts.googleapis.com/css?family=Abel%7CSatisfy' rel='stylesheet' type='text/css' />
+    <link href='http://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css' />
+    <link href='http://fonts.googleapis.com/css?family=Abel|Satisfy' rel='stylesheet' type='text/css' />
 </head>
 <body>
-    <p style="font-family: satisfy, Arial, serif;background-color: blue;color: #8e0519">
+    <p style="font-family: satisfy, Arial, serif;background-color: lightpink;color: #ff80ab;
+        border-radius: 3px; width: 600px">
         I have always been interested in things from different fields.
         One of them that I was very dedicated to was playing the piano.
         I was delighted with every whistling note. Participating in numerous
@@ -29,9 +30,9 @@ title: "My Interests"
         because music only took me to another parallel universe, where time passed by the minute.
         I also love listening to classical music other than pop and rock music.
     </p>
+<img src="secena-klavir1.JPG" style="border-radius: 3px;margin-left: 650px;margin-top: -230px" height="200px" width="400px">
 </body>
 </html>
-
 
 I have always been interested in things from different fields. One of them that I was very dedicated to was playing the piano. I was delighted with every whistling note. Participating in numerous concerts and competitions brought me great experience, as well as the pleasure of being part of such events, which enriched my culture. I have also always loved public and stage performances, so I had tried my hand as a host during concerts. The years spent in elementary music school passed me by very quickly, because music only took me to another parallel universe, where time passed by the minute. I also love listening to classical music other than pop and rock music. 
 
