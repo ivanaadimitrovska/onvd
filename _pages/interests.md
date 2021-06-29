@@ -33,13 +33,6 @@ title: "My Interests"
 <img src="https://user-images.githubusercontent.com/61246403/123681194-cee10e00-d849-11eb-8239-48facd1ba3bb.JPG" style="border-radius: 3px;margin-left: 650px;margin-top: -320px" height="200px" width="400px">
     
 
-
-
-![secena-klavir](https://user-images.githubusercontent.com/61246403/123681194-cee10e00-d849-11eb-8239-48facd1ba3bb.JPG)
-![secena-klavir1](https://user-images.githubusercontent.com/61246403/123681201-d0aad180-d849-11eb-980a-85e107f4a1d6.JPG)
-
-
-
  <p style="font-family: satisfy, Arial, serif;background-color: lightskyblue;color: #4D90FE;
         border-radius: 3px; width: 600px">
      Besides, I love dancing, I did hip-hop a few years ago. Hard work and hard work have 
@@ -56,7 +49,7 @@ title: "My Interests"
 
     </p>
 
-<img src="https://user-images.githubusercontent.com/61246403/123683112-1e283e00-d84c-11eb-843d-c84351aa653e.JPEG" style="border-radius: 3px;margin-left: 650px;margin-top: -320px" height="200px" width="400px">
+<img src="https://user-images.githubusercontent.com/61246403/123683112-1e283e00-d84c-11eb-843d-c84351aa653e.JPEG" style="border-radius: 3px;margin-left: 650px;margin-top: -400px" height="200px" width="200px">
           
 </body>
 </html>
