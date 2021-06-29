@@ -11,7 +11,7 @@ title: "My Interests"
     <title>Title</title>
 </head>
 <body>
-    <p style="font-family: satisfy, Arial, serif; color: #8e0519">
+    <p style="font-family: 'abel', 'Arial', serif; color: #8e0519">
         I have always been interested in things from different fields. 
         One of them that I was very dedicated to was playing the piano. 
         I was delighted with every whistling note. Participating in numerous 
