@@ -3,7 +3,6 @@ permalink: /interests/
 title: "My Interests"
 ---
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,8 +12,8 @@ title: "My Interests"
     <meta name="description" content="" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <title>Uncovered by FCSE</title>
-    <link href='http://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css' />
-    <link href='http://fonts.googleapis.com/css?family=Abel|Satisfy' rel='stylesheet' type='text/css' />
+    <link href='https://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css' />
+    <link href='https://fonts.googleapis.com/css?family=Abel%7CSatisfy' rel='stylesheet' type='text/css' />
 </head>
 <body>
     <p style="font-family: satisfy, Arial, serif;background-color: lightpink;color: #ff80ab;
@@ -30,7 +29,7 @@ title: "My Interests"
         because music only took me to another parallel universe, where time passed by the minute.
         I also love listening to classical music other than pop and rock music.
     </p>
-<img src="secena-klavir1.JPG" style="border-radius: 3px;margin-left: 650px;margin-top: -230px" height="200px" width="400px">
+<img src="![secena-klavir](https://user-images.githubusercontent.com/61246403/123681194-cee10e00-d849-11eb-8239-48facd1ba3bb.JPG)" style="border-radius: 3px;margin-left: 650px;margin-top: -230px" height="200px" width="400px">
 </body>
 </html>
 
