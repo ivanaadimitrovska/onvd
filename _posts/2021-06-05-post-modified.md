@@ -30,7 +30,7 @@ tags:
   </p>
   <img src="https://user-images.githubusercontent.com/61246403/124002499-1ac0be00-d9d6-11eb-93d4-0e638937a31f.jpg" style="border-radius: 3px; margin-top:-1360px; border-bottom:5px #3f51b5 dotted;border-right:5px #3f51b5 dotted;border-left:5px #3f51b5 dotted;border-top:5px #3f51b5 dotted; margin-left: 650px" height="161px" width="287px">
 
-  <img src="https://user-images.githubusercontent.com/61246403/123479478-4a9c4a00-d601-11eb-9384-aeebd4da5d15.jpg" style="border-radius: 3px; margin-top:-1050px;border-bottom:5px #3f51b5 dotted;border-right:5px #3f51b5 dotted;border-left:5px #3f51b5 dotted;border-top:5px #3f51b5 dotted; margin-left: 650px" height="161px" width="287px">
+  <img src="https://user-images.githubusercontent.com/61246403/123479478-4a9c4a00-d601-11eb-9384-aeebd4da5d15.jpg" style="border-radius: 3px; margin-top:-1020px;border-bottom:5px #3f51b5 dotted;border-right:5px #3f51b5 dotted;border-left:5px #3f51b5 dotted;border-top:5px #3f51b5 dotted; margin-left: 650px" height="161px" width="287px">
   <img src="https://user-images.githubusercontent.com/61246403/123479509-54be4880-d601-11eb-8432-e55c02c4323d.jpg" style="border-radius: 3px; margin-top:-650px; border-bottom:5px #3f51b5 dotted;border-right:5px #3f51b5 dotted;border-left:5px #3f51b5 dotted;border-top:5px #3f51b5 dotted;margin-left: 650px" height="225px" width="224px">
   
   <p style="font-family: satisfy, Arial, serif; font-style: oblique;background-color: steelblue;color: #4D90FE; 
