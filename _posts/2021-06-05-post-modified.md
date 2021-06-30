@@ -30,7 +30,7 @@ tags:
   </p>
   <img src="https://user-images.githubusercontent.com/61246403/124002499-1ac0be00-d9d6-11eb-93d4-0e638937a31f.jpg" style="border-radius: 3px;margin-left: 650px;margin-top: -650px" height="161px" width="287px">
   <img src="https://media.giphy.com/media/o9c3QvHJXjiI74BTmc/giphy.gif">
-  <img src="https://user-images.githubusercontent.com/61246403/123479478-4a9c4a00-d601-11eb-9384-aeebd4da5d15.jpg" style="border-radius: 3px;margin-left: 650px;margin-top: -550px" height="161px" width="287px">
+  <img src="https://user-images.githubusercontent.com/61246403/123479478-4a9c4a00-d601-11eb-9384-aeebd4da5d15.jpg" style="border-radius: 3px; margin-top: -550px; margin-left: 650px" height="200px" width="400px">
   </body>
   </html>
 ![download-tekst](https://user-images.githubusercontent.com/61246403/124002499-1ac0be00-d9d6-11eb-93d4-0e638937a31f.jpg)
