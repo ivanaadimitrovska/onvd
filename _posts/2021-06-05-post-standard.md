@@ -33,8 +33,7 @@ Nowadays, we often forget about written books, surrounded by millions of electro
   </html>
 
 
-![secena1](https://user-images.githubusercontent.com/61246403/123481299-d31bea00-d603-11eb-955f-0140a231ffe9.jpg)![secena2](https://user-images.githubusercontent.com/61246403/123481312-d7480780-d603-11eb-8144-bdd79f6b66ef.jpg)![secena3](https://user-images.githubusercontent.com/61246403/123481325-dadb8e80-d603-11eb-8d88-277d3af6999d.jpg)
-
+![secena2](https://user-images.githubusercontent.com/61246403/123481312-d7480780-d603-11eb-8144-bdd79f6b66ef.jpg)
 
 
 
