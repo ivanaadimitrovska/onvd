@@ -96,15 +96,32 @@ tags:
       <img src="https://user-images.githubusercontent.com/61246403/124357081-e2112680-dc19-11eb-915c-1a73e2ac878a.jpg" style="border-radius: 3px; margin-top:-330px;margin-left: 850px" height="200px" width="200px"> 
   </p>
   
+  
+   <h4 style="font-family: satisfy, Arial, serif; font-style: italic;background-color: lightskyblue;color: darkblue;
+        border-radius: 3px;width:300px">
+        Cannes and Nice, France
+        </h4>
+  <p style="background-color: lightskyblue;color: darkblue; border-radius: 3px;width:1100px;height:300px">
+    <img src="https://user-images.githubusercontent.com/61246403/124357843-dde70800-dc1d-11eb-9425-57e40fd416f9.jpg" style="border-radius: 3px" height="300px" width="300px">
+  
+  <img src="https://user-images.githubusercontent.com/61246403/124357846-e0496200-dc1d-11eb-8d09-ce006286c46a.jpg" style="border-radius: 3px;margin-left: -5px" height="300px" width="300px"> 
+  <img src="https://user-images.githubusercontent.com/61246403/124357837-da538100-dc1d-11eb-8b24-cd6f57e987ac.jpg" style="border-radius: 3px; margin-top:-220px;margin-left: 600px" height="200px" width="200px"> 
+  
+    <img src="https://user-images.githubusercontent.com/61246403/124357847-e3445280-dc1d-11eb-9dcb-ffa7ee7c4b1f.jpg" style="border-radius: 3px; margin-top:-320px;margin-left: 800px" height="300px" width="300px"> 
+  </p>
   </body>
   </html>
   
   
 
+ ![NICA1](https://user-images.githubusercontent.com/61246403/124357837-da538100-dc1d-11eb-8b24-cd6f57e987ac.jpg)
+
  
- 
- 
- 
+ ![NICA2](https://user-images.githubusercontent.com/61246403/124357843-dde70800-dc1d-11eb-9425-57e40fd416f9.jpg)
+
+ ![NICA3](https://user-images.githubusercontent.com/61246403/124357846-e0496200-dc1d-11eb-8d09-ce006286c46a.jpg)
+![NICA4](https://user-images.githubusercontent.com/61246403/124357847-e3445280-dc1d-11eb-9dcb-ffa7ee7c4b1f.jpg)
+
  
  
  
