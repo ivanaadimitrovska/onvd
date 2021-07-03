@@ -90,7 +90,7 @@ tags:
     <img src="https://user-images.githubusercontent.com/61246403/124357111-12f15b80-dc1a-11eb-9612-5cbc2c9dc231.jpg" style="border-radius: 3px" height="200px" width="200px">
   
   <img src="https://user-images.githubusercontent.com/61246403/124357034-b130f180-dc19-11eb-9c94-97e624ca21b7.jpg" style="border-radius: 3px;margin-left: -5px" height="200px" width="200px"> 
-  <img src="https://user-images.githubusercontent.com/61246403/124357037-b55d0f00-dc19-11eb-8755-41288ba08eb7.jpg" style="border-radius: 3px; margin-top:-100px;margin-left: 100px" height="200px" width="200px"> 
+  <img src="https://user-images.githubusercontent.com/61246403/124357037-b55d0f00-dc19-11eb-8755-41288ba08eb7.jpg" style="border-radius: 3px; margin-top:-50px" height="200px" width="200px"> 
   
     <img src="https://user-images.githubusercontent.com/61246403/124357040-b7bf6900-dc19-11eb-82d6-6139c457590e.jpg" style="border-radius: 3px; margin-top:-320px;margin-left: 800px" height="200px" width="200px"> 
       <img src="https://user-images.githubusercontent.com/61246403/124357081-e2112680-dc19-11eb-915c-1a73e2ac878a.jpg" style="border-radius: 3px; margin-top:-320px;margin-left: 800px" height="200px" width="200px"> 
