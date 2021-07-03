@@ -30,7 +30,7 @@ tags:
         border-radius: 3px;width:200px">
         Milan, Italy
         </h4>
-  <p style="background-color: lightskyblue;color: darkblue; border-radius: 3px;width:1100px;height:300px">
+  <p style="background-color: lightskyblue;color: darkblue; border-radius: 3px;width:1000px;height:300px">
    
               
  <img src="https://user-images.githubusercontent.com/61246403/124353596-c7ce4d00-dc07-11eb-9b1b-49bed8e9222c.jpg" style="border-radius: 3px" height="300px" width="300px">
@@ -55,6 +55,20 @@ tags:
   
     <img src="https://user-images.githubusercontent.com/61246403/124355428-55fb0100-dc11-11eb-87bf-87ea623e81f5.jpg" style="border-radius: 3px; margin-top:-320px;margin-left: 800px" height="300px" width="300px"> 
   </p>
+  <h4 style="font-family: satisfy, Arial, serif; font-style: italic;background-color: lightskyblue;color: darkblue;
+        border-radius: 3px;width:200px">
+        Lloret de Mar, Spain
+        </h4>
+  <p style="background-color: lightskyblue;color: darkblue; border-radius: 3px;width:1100px;height:300px">
+   
+  <img src="https://user-images.githubusercontent.com/61246403/124356238-3c5bb880-dc15-11eb-9098-ce06140d426d.jpg" style="border-radius: 3px" height="300px" width="300px">
+  
+  <img src="https://user-images.githubusercontent.com/61246403/124356241-3ebe1280-dc15-11eb-8182-aab762aa0fd9.jpg" style="border-radius: 3px;margin-left: -5px" height="300px" width="300px"> 
+  <img src="https://user-images.githubusercontent.com/61246403/124356212-1f26ea00-dc15-11eb-8043-00735a15e965.jpg" style="border-radius: 3px; margin-top:-240px;margin-left: 600px" height="200px" width="200px"> 
+  
+    <img src="https://user-images.githubusercontent.com/61246403/124356236-3960c800-dc15-11eb-8785-e91914492173.jpeg" style="border-radius: 3px; margin-top:-320px;margin-left: 800px" height="300px" width="300px"> 
+    
+    
   </body>
   </html>
   
@@ -62,9 +76,12 @@ tags:
 
   
   
+  ![LLORET1](https://user-images.githubusercontent.com/61246403/124356212-1f26ea00-dc15-11eb-8043-00735a15e965.jpg)
+ ![LLORET2](https://user-images.githubusercontent.com/61246403/124356236-3960c800-dc15-11eb-8785-e91914492173.jpeg)
+
+  ![LLORET3](https://user-images.githubusercontent.com/61246403/124356238-3c5bb880-dc15-11eb-9098-ce06140d426d.jpg)
+
   
- 
-  
-  
-  
+  ![LLORET4](https://user-images.githubusercontent.com/61246403/124356241-3ebe1280-dc15-11eb-8182-aab762aa0fd9.jpg)
+
   
