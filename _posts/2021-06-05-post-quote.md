@@ -51,7 +51,7 @@ tags:
  <img src="https://user-images.githubusercontent.com/61246403/124355423-4f6c8980-dc11-11eb-8d7f-e764577671ed.jpg" style="border-radius: 3px" height="300px" width="300px">
   
   <img src="https://user-images.githubusercontent.com/61246403/124355424-51cee380-dc11-11eb-8435-01c46ab20f5d.jpg" style="border-radius: 3px;margin-left: -5px" height="300px" width="300px"> 
-  <img src="https://user-images.githubusercontent.com/61246403/124355745-16cdaf80-dc13-11eb-899d-ee5d3572f99a.jpg" style="border-radius: 3px; margin-top:-240px;margin-left: 600px" height="200px" width="200px"> 
+  <img src="https://user-images.githubusercontent.com/61246403/124355745-16cdaf80-dc13-11eb-899d-ee5d3572f99a.jpg" style="border-radius: 3px; margin-top:-220px;margin-left: 600px" height="200px" width="200px"> 
   
     <img src="https://user-images.githubusercontent.com/61246403/124355428-55fb0100-dc11-11eb-87bf-87ea623e81f5.jpg" style="border-radius: 3px; margin-top:-320px;margin-left: 800px" height="300px" width="300px"> 
   </p>
@@ -64,7 +64,7 @@ tags:
   <img src="https://user-images.githubusercontent.com/61246403/124356238-3c5bb880-dc15-11eb-9098-ce06140d426d.jpg" style="border-radius: 3px" height="300px" width="300px">
   
   <img src="https://user-images.githubusercontent.com/61246403/124356241-3ebe1280-dc15-11eb-8182-aab762aa0fd9.jpg" style="border-radius: 3px;margin-left: -5px" height="300px" width="300px"> 
-  <img src="https://user-images.githubusercontent.com/61246403/124356212-1f26ea00-dc15-11eb-8043-00735a15e965.jpg" style="border-radius: 3px; margin-top:-240px;margin-left: 600px" height="200px" width="200px"> 
+  <img src="https://user-images.githubusercontent.com/61246403/124356212-1f26ea00-dc15-11eb-8043-00735a15e965.jpg" style="border-radius: 3px; margin-top:-220px;margin-left: 600px" height="200px" width="200px"> 
   
     <img src="https://user-images.githubusercontent.com/61246403/124356236-3960c800-dc15-11eb-8785-e91914492173.jpeg" style="border-radius: 3px; margin-top:-320px;margin-left: 800px" height="300px" width="300px"> 
     
@@ -76,12 +76,4 @@ tags:
 
   
   
-  ![LLORET1](https://user-images.githubusercontent.com/61246403/124356212-1f26ea00-dc15-11eb-8043-00735a15e965.jpg)
- ![LLORET2](https://user-images.githubusercontent.com/61246403/124356236-3960c800-dc15-11eb-8785-e91914492173.jpeg)
-
-  ![LLORET3](https://user-images.githubusercontent.com/61246403/124356238-3c5bb880-dc15-11eb-9098-ce06140d426d.jpg)
-
-  
-  ![LLORET4](https://user-images.githubusercontent.com/61246403/124356241-3ebe1280-dc15-11eb-8182-aab762aa0fd9.jpg)
-
   
