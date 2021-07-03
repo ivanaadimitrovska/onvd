@@ -30,15 +30,15 @@ tags:
         border-radius: 3px;width:200px">
         Milan, Italy
         </h4>
-  <p style="background-color: lightskyblue;color: darkblue; border-radius: 3px;width:900px;height:350px">
+  <p style="background-color: lightskyblue;color: darkblue; border-radius: 3px;width:900px;height:250px">
    
               
  <img src="https://user-images.githubusercontent.com/61246403/124353596-c7ce4d00-dc07-11eb-9b1b-49bed8e9222c.jpg" style="border-radius: 3px" height="300px" width="300px">
   
-  <img src="https://user-images.githubusercontent.com/61246403/124353611-d6b4ff80-dc07-11eb-9d77-a4e9c7f032f8.jpg" style="border-radius: 3px; margin-top:-250px;margin-left: 310px" height="200px" width="200px"> 
-  <img src="https://user-images.githubusercontent.com/61246403/124353614-dae11d00-dc07-11eb-974e-525a857ccc08.jpg" style="border-radius: 3px; margin-top:-350px;margin-left: 530px" height="200px" width="200px"> 
+  <img src="https://user-images.githubusercontent.com/61246403/124353611-d6b4ff80-dc07-11eb-9d77-a4e9c7f032f8.jpg" style="border-radius: 3px; margin-top:-50px;margin-left: 250px" height="200px" width="200px"> 
+  <img src="https://user-images.githubusercontent.com/61246403/124353614-dae11d00-dc07-11eb-974e-525a857ccc08.jpg" style="border-radius: 3px; margin-top:-250px;margin-left: 450px" height="200px" width="200px"> 
   
-    <img src="https://user-images.githubusercontent.com/61246403/124353617-de74a400-dc07-11eb-8c6d-81483d4af85d.jpg" style="border-radius: 3px; margin-top:-500px;margin-left: 755px" height="300px" width="300px"> 
+    <img src="https://user-images.githubusercontent.com/61246403/124353617-de74a400-dc07-11eb-8c6d-81483d4af85d.jpg" style="border-radius: 3px; margin-top:-500px;margin-left: 650px" height="300px" width="300px"> 
     
   
   </p>
