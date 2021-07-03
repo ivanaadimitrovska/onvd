@@ -36,11 +36,24 @@ tags:
  <img src="https://user-images.githubusercontent.com/61246403/124353596-c7ce4d00-dc07-11eb-9b1b-49bed8e9222c.jpg" style="border-radius: 3px" height="300px" width="300px">
   
   <img src="https://user-images.githubusercontent.com/61246403/124353611-d6b4ff80-dc07-11eb-9d77-a4e9c7f032f8.jpg" style="border-radius: 3px;margin-left: -5px" height="200px" width="200px"> 
-  <img src="https://user-images.githubusercontent.com/61246403/124353614-dae11d00-dc07-11eb-974e-525a857ccc08.jpg" style="border-radius: 3px; margin-top:-290px;margin-left: 500px" height="200px" width="200px"> 
+  <img src="https://user-images.githubusercontent.com/61246403/124353614-dae11d00-dc07-11eb-974e-525a857ccc08.jpg" style="border-radius: 3px; margin-top:-295px;margin-left: 500px" height="200px" width="200px"> 
   
     <img src="https://user-images.githubusercontent.com/61246403/124353617-de74a400-dc07-11eb-8c6d-81483d4af85d.jpg" style="border-radius: 3px; margin-top:-400px;margin-left: 700px" height="300px" width="300px"> 
     
+  </p>
   
+   <h4 style="font-family: satisfy, Arial, serif; font-style: italic;background-color: lightskyblue;color: darkblue;
+        border-radius: 3px;width:200px">
+        Barcelona, Spain
+        </h4>
+  <p style="background-color: lightskyblue;color: darkblue; border-radius: 3px;width:1000px;height:300px">
+   
+ <img src="https://user-images.githubusercontent.com/61246403/124355423-4f6c8980-dc11-11eb-8d7f-e764577671ed.jpg" style="border-radius: 3px" height="300px" width="300px">
+  
+  <img src="https://user-images.githubusercontent.com/61246403/124355424-51cee380-dc11-11eb-8435-01c46ab20f5d.jpg" style="border-radius: 3px;margin-left: -5px" height="200px" width="200px"> 
+  <img src="https://user-images.githubusercontent.com/61246403/124355426-5398a700-dc11-11eb-80b1-5df683941150.jpg" style="border-radius: 3px; margin-top:-290px;margin-left: 500px" height="200px" width="200px"> 
+  
+    <img src="https://user-images.githubusercontent.com/61246403/124355428-55fb0100-dc11-11eb-87bf-87ea623e81f5.jpg" style="border-radius: 3px; margin-top:-400px;margin-left: 700px" height="300px" width="300px"> 
   </p>
   </body>
   </html>
@@ -49,6 +62,9 @@ tags:
 
   
   
+  
+ 
+
   
   
   
