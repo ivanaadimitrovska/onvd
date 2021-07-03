@@ -27,10 +27,10 @@ tags:
   p.s. A picture is a thousand words!
   </p>
    <h4 style="font-family: satisfy, Arial, serif; font-style: italic;background-color: lightskyblue;color: darkblue;
-        border-radius: 3px; width: 600px">
+        border-radius: 3px">
         Milan, Italy
         </h4>
-  <p background-color: lightskyblue;color: darkblue; border-radius: 3px">
+  <p style="background-color: lightskyblue;color: darkblue; border-radius: 3px; display: inline-block">
               
   <img src="https://user-images.githubusercontent.com/61246403/124353596-c7ce4d00-dc07-11eb-9b1b-49bed8e9222c.jpg" style="border-radius: 3px; margin-top:-120px;margin-left: 180px" height="200px" width="400px">
   
@@ -39,6 +39,10 @@ tags:
   <img src="https://user-images.githubusercontent.com/61246403/124353614-dae11d00-dc07-11eb-974e-525a857ccc08.jpg" style="border-radius: 3px; margin-top:-120px;margin-left: 180px" height="200px" width="400px">
   
     <img src="https://user-images.githubusercontent.com/61246403/124353617-de74a400-dc07-11eb-8c6d-81483d4af85d.jpg" style="border-radius: 3px; margin-top:-120px;margin-left: 180px" height="200px" width="400px">
+  
+  </p>
+  </body>
+  </html>
   
   
 ![MILANO1](https://user-images.githubusercontent.com/61246403/124353596-c7ce4d00-dc07-11eb-9b1b-49bed8e9222c.jpg)![MILANO2](https://user-images.githubusercontent.com/61246403/124353611-d6b4ff80-dc07-11eb-9d77-a4e9c7f032f8.jpg)
