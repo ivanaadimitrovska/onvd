@@ -93,7 +93,7 @@ tags:
   <img src="https://user-images.githubusercontent.com/61246403/124357037-b55d0f00-dc19-11eb-8755-41288ba08eb7.jpg" style="border-radius: 3px;margin-left: 10px" height="200px" width="200px"> 
   
     <img src="https://user-images.githubusercontent.com/61246403/124357040-b7bf6900-dc19-11eb-82d6-6139c457590e.jpg" style="border-radius: 3px; margin-top:-290px;margin-left: 640px" height="200px" width="200px"> 
-      <img src="https://user-images.githubusercontent.com/61246403/124357081-e2112680-dc19-11eb-915c-1a73e2ac878a.jpg" style="border-radius: 3px; margin-top:-320px;margin-left: 850px" height="200px" width="200px"> 
+      <img src="https://user-images.githubusercontent.com/61246403/124357081-e2112680-dc19-11eb-915c-1a73e2ac878a.jpg" style="border-radius: 3px; margin-top:-330px;margin-left: 850px" height="200px" width="200px"> 
   </p>
   
   </body>
