@@ -22,8 +22,36 @@ tags:
 <body>
    <p style="font-family: satisfy, Arial, serif; font-style: italic;background-color: lightskyblue;color: darkblue;
         border-radius: 3px; width: 600px">
-  As we travel through different parts of the world, we learn new things and upgrade our knowledge. We enrich our culture, enjoying the view that fascinates us endlessly. Then we enter a new reality, which we do not want to stop. Those moments remain etched in our heads forever and we welcome them with a smile when we remember them. One of the favorite cities I have visited is Barcelona. The spirit of that city is incomparable to others. It captivates with its beauty and infrastructure. But Paris also has its own beauty and knows how to enchant a person. Not to mention all the cities, the photos tell their story. Enjoy photos of beautiful places.
-    
-p.s. A picture is a thousand words!
+  As we travel through different parts of the world, we learn new things and upgrade our knowledge. We enrich our culture, enjoying the view that fascinates us endlessly. Then we enter a new reality, which we do not want to stop. Those moments remain etched in our heads forever and we welcome them with a smile when we remember them. One of the favorite cities I have visited is Barcelona. The spirit of that city is incomparable to others. It captivates with its beauty and infrastructure. But Paris also has its own beauty and knows how to enchant a person. Not to mention all the cities, the photos tell their story. Enjoy photos of beautiful places.<br>
+
+  p.s. A picture is a thousand words!
   </p>
+   <h4 style="font-family: satisfy, Arial, serif; font-style: italic;background-color: lightskyblue;color: darkblue;
+        border-radius: 3px; width: 600px">
+        Milan, Italy
+        </h4>
+  <p background-color: lightskyblue;color: darkblue; border-radius: 3px">
+              
+  <img src="https://user-images.githubusercontent.com/61246403/124353596-c7ce4d00-dc07-11eb-9b1b-49bed8e9222c.jpg" style="border-radius: 3px; margin-top:-120px;margin-left: 180px" height="200px" width="400px">
+  
+  <img src="https://user-images.githubusercontent.com/61246403/124353611-d6b4ff80-dc07-11eb-9d77-a4e9c7f032f8.jpg" style="border-radius: 3px; margin-top:-120px;margin-left: 180px" height="200px" width="400px">
+  
+  <img src="https://user-images.githubusercontent.com/61246403/124353614-dae11d00-dc07-11eb-974e-525a857ccc08.jpg" style="border-radius: 3px; margin-top:-120px;margin-left: 180px" height="200px" width="400px">
+  
+    <img src="https://user-images.githubusercontent.com/61246403/124353617-de74a400-dc07-11eb-8c6d-81483d4af85d.jpg" style="border-radius: 3px; margin-top:-120px;margin-left: 180px" height="200px" width="400px">
+  
+  
+![MILANO1](https://user-images.githubusercontent.com/61246403/124353596-c7ce4d00-dc07-11eb-9b1b-49bed8e9222c.jpg)![MILANO2](https://user-images.githubusercontent.com/61246403/124353611-d6b4ff80-dc07-11eb-9d77-a4e9c7f032f8.jpg)
+![MILANO3](https://user-images.githubusercontent.com/61246403/124353614-dae11d00-dc07-11eb-974e-525a857ccc08.jpg)
+![MILANO4](https://user-images.githubusercontent.com/61246403/124353617-de74a400-dc07-11eb-8c6d-81483d4af85d.jpg)
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
