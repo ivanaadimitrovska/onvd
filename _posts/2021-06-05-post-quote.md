@@ -27,19 +27,18 @@ tags:
   p.s. A picture is a thousand words!
   </p>
    <h4 style="font-family: satisfy, Arial, serif; font-style: italic;background-color: lightskyblue;color: darkblue;
-        border-radius: 3px;width:100px">
+        border-radius: 3px;width:200px">
         Milan, Italy
         </h4>
   <p style="background-color: lightskyblue;color: darkblue; border-radius: 3px">
-    <ul style="display: inline-block">
+   
               
- <li> <img src="https://user-images.githubusercontent.com/61246403/124353596-c7ce4d00-dc07-11eb-9b1b-49bed8e9222c.jpg" style="border-radius: 3px; margin-top:-120px;margin-left: 180px" height="200px" width="200px"></li>
+ <img src="https://user-images.githubusercontent.com/61246403/124353596-c7ce4d00-dc07-11eb-9b1b-49bed8e9222c.jpg" style="border-radius: 3px; margin-top:-50px;margin-left: 50px" height="200px" width="200px">
   
- <li>   <img src="https://user-images.githubusercontent.com/61246403/124353611-d6b4ff80-dc07-11eb-9d77-a4e9c7f032f8.jpg" style="border-radius: 3px; margin-top:-120px;margin-left: 180px" height="200px" width="200px"> </li>
+  <img src="https://user-images.githubusercontent.com/61246403/124353611-d6b4ff80-dc07-11eb-9d77-a4e9c7f032f8.jpg" style="border-radius: 3px; margin-top:-50px;margin-left: 180px" height="200px" width="200px"> 
+  <img src="https://user-images.githubusercontent.com/61246403/124353614-dae11d00-dc07-11eb-974e-525a857ccc08.jpg" style="border-radius: 3px; margin-top:-50px;margin-left: 280px" height="200px" width="200px"> 
   
-  <li>  <img src="https://user-images.githubusercontent.com/61246403/124353614-dae11d00-dc07-11eb-974e-525a857ccc08.jpg" style="border-radius: 3px; margin-top:-120px;margin-left: 180px" height="200px" width="200px"> </li>
-  
-  <li>    <img src="https://user-images.githubusercontent.com/61246403/124353617-de74a400-dc07-11eb-8c6d-81483d4af85d.jpg" style="border-radius: 3px; margin-top:-120px;margin-left: 180px" height="200px" width="200px"> </li>
+    <img src="https://user-images.githubusercontent.com/61246403/124353617-de74a400-dc07-11eb-8c6d-81483d4af85d.jpg" style="border-radius: 3px; margin-top:-50px;margin-left: 480px" height="200px" width="200px"> 
     </ul>
   
   </p>
