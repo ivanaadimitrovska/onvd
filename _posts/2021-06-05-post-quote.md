@@ -46,14 +46,14 @@ tags:
         border-radius: 3px;width:200px">
         Barcelona, Spain
         </h4>
-  <p style="background-color: lightskyblue;color: darkblue; border-radius: 3px;width:1000px;height:300px">
+  <p style="background-color: lightskyblue;color: darkblue; border-radius: 3px;width:1100px;height:300px">
    
  <img src="https://user-images.githubusercontent.com/61246403/124355423-4f6c8980-dc11-11eb-8d7f-e764577671ed.jpg" style="border-radius: 3px" height="300px" width="300px">
   
-  <img src="https://user-images.githubusercontent.com/61246403/124355424-51cee380-dc11-11eb-8435-01c46ab20f5d.jpg" style="border-radius: 3px;margin-left: -5px" height="300px" width="200px"> 
-  <img src="https://user-images.githubusercontent.com/61246403/124355426-5398a700-dc11-11eb-80b1-5df683941150.jpg" style="border-radius: 3px; margin-top:-290px;margin-left: 500px" height="300px" width="200px"> 
+  <img src="https://user-images.githubusercontent.com/61246403/124355424-51cee380-dc11-11eb-8435-01c46ab20f5d.jpg" style="border-radius: 3px;margin-left: -5px" height="300px" width="300px"> 
+  <img src="https://user-images.githubusercontent.com/61246403/124355426-5398a700-dc11-11eb-80b1-5df683941150.jpg" style="border-radius: 3px; margin-top:-290px;margin-left: 500px" height="300px" width="300px"> 
   
-    <img src="https://user-images.githubusercontent.com/61246403/124355428-55fb0100-dc11-11eb-87bf-87ea623e81f5.jpg" style="border-radius: 3px; margin-top:-350px;margin-left: 700px" height="300px" width="300px"> 
+    <img src="https://user-images.githubusercontent.com/61246403/124355428-55fb0100-dc11-11eb-87bf-87ea623e81f5.jpg" style="border-radius: 3px; margin-top:-340px;margin-left: 700px" height="300px" width="300px"> 
   </p>
   </body>
   </html>
