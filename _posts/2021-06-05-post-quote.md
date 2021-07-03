@@ -35,10 +35,10 @@ tags:
               
  <img src="https://user-images.githubusercontent.com/61246403/124353596-c7ce4d00-dc07-11eb-9b1b-49bed8e9222c.jpg" style="border-radius: 3px" height="300px" width="300px">
   
-  <img src="https://user-images.githubusercontent.com/61246403/124353611-d6b4ff80-dc07-11eb-9d77-a4e9c7f032f8.jpg" style="border-radius: 3px; margin-top:-20px;margin-left: 30px" height="200px" width="200px"> 
-  <img src="https://user-images.githubusercontent.com/61246403/124353614-dae11d00-dc07-11eb-974e-525a857ccc08.jpg" style="border-radius: 3px; margin-top:-250px;margin-left: 450px" height="200px" width="200px"> 
+  <img src="https://user-images.githubusercontent.com/61246403/124353611-d6b4ff80-dc07-11eb-9d77-a4e9c7f032f8.jpg" style="border-radius: 3px; margin-left: 5px" height="200px" width="200px"> 
+  <img src="https://user-images.githubusercontent.com/61246403/124353614-dae11d00-dc07-11eb-974e-525a857ccc08.jpg" style="border-radius: 3px; margin-top:-250px;margin-left: 500px" height="200px" width="200px"> 
   
-    <img src="https://user-images.githubusercontent.com/61246403/124353617-de74a400-dc07-11eb-8c6d-81483d4af85d.jpg" style="border-radius: 3px; margin-top:-400px;margin-left: 650px" height="300px" width="300px"> 
+    <img src="https://user-images.githubusercontent.com/61246403/124353617-de74a400-dc07-11eb-8c6d-81483d4af85d.jpg" style="border-radius: 3px; margin-top:-400px;margin-left: 700px" height="300px" width="300px"> 
     
   
   </p>
