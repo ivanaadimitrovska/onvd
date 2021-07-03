@@ -51,7 +51,7 @@ tags:
  <img src="https://user-images.githubusercontent.com/61246403/124355423-4f6c8980-dc11-11eb-8d7f-e764577671ed.jpg" style="border-radius: 3px" height="300px" width="300px">
   
   <img src="https://user-images.githubusercontent.com/61246403/124355424-51cee380-dc11-11eb-8435-01c46ab20f5d.jpg" style="border-radius: 3px;margin-left: -5px" height="300px" width="300px"> 
-  <img src="https://user-images.githubusercontent.com/61246403/124355745-16cdaf80-dc13-11eb-899d-ee5d3572f99a.jpg" style="border-radius: 3px; margin-top:-290px;margin-left: 500px" height="200px" width="200px"> 
+  <img src="https://user-images.githubusercontent.com/61246403/124355745-16cdaf80-dc13-11eb-899d-ee5d3572f99a.jpg" style="border-radius: 3px; margin-top:-290px;margin-left: 600px" height="200px" width="200px"> 
   
     <img src="https://user-images.githubusercontent.com/61246403/124355428-55fb0100-dc11-11eb-87bf-87ea623e81f5.jpg" style="border-radius: 3px; margin-top:-340px;margin-left: 800px" height="300px" width="300px"> 
   </p>
