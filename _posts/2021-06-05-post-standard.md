@@ -31,7 +31,7 @@ Nowadays, we often forget about written books, surrounded by millions of electro
       
   <img src="https://user-images.githubusercontent.com/61246403/123481312-d7480780-d603-11eb-8144-bdd79f6b66ef.jpg" style="border-radius: 3px; margin-top:-1530px; margin-left: 650px" height="200px" width="400px">
   
-  <img src="https://user-images.githubusercontent.com/61246403/124383890-1c88cb00-dccf-11eb-8a6e-f6e07e716c7a.jpg" style="border-radius: 3px; margin-top:-1230px; margin-left: 650px" height="200px" width="400px">
+  <img src="https://user-images.githubusercontent.com/61246403/124383890-1c88cb00-dccf-11eb-8a6e-f6e07e716c7a.jpg" style="border-radius: 3px; margin-top:-1100px; margin-left: 650px" height="200px" width="400px">
   
   <img src="https://user-images.githubusercontent.com/61246403/123481325-dadb8e80-d603-11eb-8d88-277d3af6999d.jpg" style="border-radius: 3px;  margin-top:-430px" height="240px" width="240px">
   </body>
