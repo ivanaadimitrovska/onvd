@@ -4,9 +4,9 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - reading
+  - books
+  - new reality
 ---
 
 <!DOCTYPE html>
